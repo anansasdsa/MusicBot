@@ -1,6 +1,4 @@
-token=NDcyMzgyNzUwMTYzNDY4MzA4.Dnm8ew.FBUTn-6g5-jDyeP_aHs1UvMzAUM
+token=NDkwMTQ2ODYwMzA5NDEzOTAx.D0jHCw.H_Cq5lHHw5jEOJ1AcEB_LucrDS4
 owner=373458893051002890
-prefix=#
-game=RozXCraft | Server
-stayinchannel=true
+prefix=M
 songinstatus=true
