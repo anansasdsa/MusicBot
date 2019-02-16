@@ -1,4 +1,4 @@
 token=NDkwMTQ2ODYwMzA5NDEzOTAx.D0jHCw.H_Cq5lHHw5jEOJ1AcEB_LucrDS4
-owner=444390555473149953
-prefix=M
+owner=518620483764224001
+prefix=w
 songinstatus=true
